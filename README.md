@@ -1,42 +1,25 @@
-# Hồ Sơ Cá Nhân
+# CV cá nhân - Đỗ Như Phong
 
-Chào bạn, tôi là **Nguyễn Văn A**. Đây là trang CV của tôi.
+Đây là trang CV được xây dựng bằng Jekyll + Markdown, có thể triển khai trực tiếp trên GitHub Pages.
 
-## Thông Tin Liên Hệ
+## 🚀 Hướng dẫn đẩy lên GitHub Pages
 
-- **Email**: nguyen.vana@email.com
-- **Số điện thoại**: 0123456789
-- **Địa chỉ**: Hà Nội, Việt Nam
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nguyen-vana)
+1. Tạo repository mới trên GitHub tên: `your-username.github.io`
+2. Clone về máy:
 
-## Kinh Nghiệm Làm Việc
+```
+git clone https://github.com/your-username/your-username.github.io
+cd your-username.github.io
+```
 
-### Developer at ABC Corp (2020 - Nay)
-- Phát triển ứng dụng web bằng React và Node.js.
-- Quản lý cơ sở dữ liệu và tối ưu hóa hiệu suất hệ thống.
+3. Giải nén thư mục này vào repo và push:
 
-### Junior Developer at XYZ Tech (2018 - 2020)
-- Tham gia phát triển phần mềm với các công nghệ Java và Spring Boot.
-- Xử lý và bảo trì hệ thống máy chủ.
+```
+git add .
+git commit -m "Upload CV Jekyll"
+git push origin main
+```
 
-## Học Vấn
+4. Truy cập địa chỉ: https://your-username.github.io
 
-- **Đại học Bách Khoa Hà Nội** (2014 - 2018)  
-  Cử nhân Công nghệ Thông tin
-
-## Kỹ Năng
-
-- **Ngôn ngữ lập trình**: Java, JavaScript, Python
-- **Frameworks**: React, Node.js, Spring Boot
-- **Cơ sở dữ liệu**: MySQL, MongoDB
-- **Công cụ**: Git, Docker, Jenkins
-
-## Dự Án
-
-### Ứng Dụng Quản Lý Công Việc
-- Một ứng dụng giúp người dùng quản lý công việc hàng ngày, xây dựng bằng React và Firebase.
-- GitHub Repo: [link-to-repo](https://github.com/your-username/task-manager)
-
----
-
-Cảm ơn bạn đã dành thời gian tham khảo!
+**Done 🎉**
